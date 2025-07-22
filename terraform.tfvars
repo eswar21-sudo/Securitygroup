@@ -1,6 +1,6 @@
 name        = "web-sg"
 description = "Allow HTTP and SSH traffic"
-vpc_id      = "vpc-0abcd1234efgh5678"
+#vpc_id      = "vpc-0abcd1234efgh5678"
 
 ingress_rules = [
   {
