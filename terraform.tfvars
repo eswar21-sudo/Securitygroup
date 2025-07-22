@@ -1,4 +1,4 @@
-name        = "web-sg"
+name        = "EKS-SG"
 description = "Allow HTTP and SSH traffic"
 #vpc_id      = "vpc-0abcd1234efgh5678"
 
